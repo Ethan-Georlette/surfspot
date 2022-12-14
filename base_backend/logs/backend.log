@@ -1,0 +1,28 @@
+26/01/2022, 18:27:26 - INFO - Server is running on port: 3030 
+26/01/2022, 18:27:56 - INFO - Server is running on port: 3030 
+26/01/2022, 18:29:50 - INFO - Server is running on port: 3030 
+26/01/2022, 18:29:55 - INFO - Server is running on port: 3030 
+26/01/2022, 18:31:19 - INFO - Server is running on port: 3030 
+26/01/2022, 18:31:25 - INFO - Server is running on port: 3030 
+26/01/2022, 18:31:37 - INFO - Server is running on port: 3030 
+26/01/2022, 18:34:49 - INFO - Server is running on port: 3030 
+26/01/2022, 18:35:41 - ERROR - Cannot get lists | ReferenceError: spyService is not defined (sid: XP_MfSRiC4aMVW_8AskoXqRgIPBcHVWI)
+26/01/2022, 18:36:54 - INFO - Server is running on port: 3030 
+26/01/2022, 18:49:15 - INFO - Server is running on port: 3030 
+26/01/2022, 18:49:38 - INFO - Server is running on port: 3030 
+26/01/2022, 18:53:18 - INFO - Server is running on port: 3030 
+26/01/2022, 18:54:04 - INFO - Server is running on port: 3030 
+26/01/2022, 18:55:06 - INFO - Server is running on port: 3030 
+26/01/2022, 19:01:34 - INFO - Server is running on port: 3030 
+28/01/2022, 13:46:57 - INFO - Server is running on port: 3030 
+27/04/2022, 16:34:56 - INFO - Server is running on port: 3030 
+27/04/2022, 16:37:08 - INFO - Server is running on port: 3030 
+27/04/2022, 16:37:16 - ERROR - Cannot get lists | ReferenceError: logger is not defined (sid: -B7sHCxN6naCLdEkie-wW8OVz8rJi63V)
+27/04/2022, 16:38:38 - INFO - Server is running on port: 3030 
+27/04/2022, 16:38:45 - ERROR - Cannot get lists | ReferenceError: logger is not defined (sid: lh8ei0sjD5CXcVbf17nD6FFWd0y4MPjH)
+27/04/2022, 16:39:57 - INFO - Server is running on port: 3030 
+27/04/2022, 16:39:59 - ERROR - Cannot get lists | ReferenceError: logger is not defined (sid: 3edUJ7AnEQ5PKwRIwheRd5TsRcNMz63u)
+27/04/2022, 16:40:43 - INFO - Server is running on port: 3030 
+27/04/2022, 16:40:54 - ERROR - cannot find lists | ReferenceError: connection is not defined (sid: UDClnBhE0YafoHGriq6UoT0FPLvkKhZX)
+27/04/2022, 16:40:54 - ERROR - Cannot get lists | ReferenceError: connection is not defined (sid: UDClnBhE0YafoHGriq6UoT0FPLvkKhZX)
+27/04/2022, 16:44:53 - INFO - Server is running on port: 3030 
